@@ -1,0 +1,22 @@
+.footer
+{
+    background-color: #011a40;
+}
+.footer .left i
+{
+    color: #fff;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.footer .left i:hover
+{
+    color: #011a40;
+    background-color: #fff;
+}
+
+.footer .right ul li
+{
+    list-style-type: none;
+}
